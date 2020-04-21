@@ -20,9 +20,10 @@
 
 因为是通过客户端提醒的,我们可以通过CobaltStrike 自带的agscript来运行这个插件,在服务端后台运行:
 
-一 .填入你的Server酱的Key,链接如下::
+**(0) 填入你的Server酱的Key,Server酱官网链接如下:**
 
 http://sc.ftqq.com/3.version
+
 
 **(1) 打开链接,登入Github账号,微信绑定公众号,在微信推送选项里就有key.**
 
