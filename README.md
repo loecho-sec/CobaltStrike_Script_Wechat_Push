@@ -24,7 +24,7 @@
 
 http://sc.ftqq.com/3.version
 
-**(1) 打开链接,登入Github账号,微信绑定公众号,在微信推送选项里就有.**
+**(1) 打开链接,登入Github账号,微信绑定公众号,在微信推送选项里就有key.**
 
 **(2) 打开cna文件,添加Key:**
 
@@ -51,7 +51,3 @@ http://sc.ftqq.com/3.version
 
 
 
-
-
-
-"# CobaltStrike_Script_Wechat_Push" 
